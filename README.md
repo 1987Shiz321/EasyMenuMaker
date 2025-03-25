@@ -21,3 +21,6 @@ Google Colaboratory上で動作するMenu作成ツールです。\
 - MenuOther.szs (ライセンス設定などで使用)
 - Title.szs / Title_J.szs (タイトル画面 J=リージョン)
 - Channel.szs (共通設定、マリオカートチャンネルで使用)
+
+# Lisence
+This project is licensed under the MIT License, see the LICENSE file for details.
